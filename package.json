@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "01-tp-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {"test": "node src/index.js"},
+  "keywords": [],
+  "author": "MM",
+  "license": "ISC"
+}
